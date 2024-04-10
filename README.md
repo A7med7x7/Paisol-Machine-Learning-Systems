@@ -3,10 +3,6 @@
 
 Welcome to the PAISOL Machine Learning Internship repository! This repository contains the tasks and corresponding code implementations for the Machine Learning internship program.
 
-## Update your LinkedIn profiles.
-
-For the Machine Learning internship, you will need to complete at least 5 tasks for successful completion of the internship. Maintain a separate GitHub repository (named as PAISOL for all the tasks and share the link of the GitHub repo in the task submission form(it will be given later through email).
-
 ## Task Descriptions
 
 ### Task 1: Sentiment Analysis with NLP
